@@ -5939,5 +5939,136 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+    {
+    "name": "DUPLICATE AND EDIT ME",
+    "image": "http://image-link-here.com/image.png",
+    "skills": [
+      "game design",
+      "programming",
+      "user interface design",
+      "production",
+      "copywriting",
+      "narrative design",
+      "public relations",
+      "game audio",
+      "marketing",
+      "quality assurance",
+      "art",
+      "animation"
+    ],
+    "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "http://link-here.com"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/username-here"
+        ],
+        [
+          "Facebook",
+          "https://facebook.com/username-here"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/username-here"
+        ],
+        [
+          "YouTube",
+          "https://youtube.com/username-here"
+        ],
+        [
+          "Patreon",
+          "https://www.patreon.com/username-here"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "http://link-here.com"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/username-here"
+        ],
+        [
+          "Facebook",
+          "https://facebook.com/username-here"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/username-here"
+        ],
+        [
+          "YouTube",
+          "https://youtube.com/username-here"
+        ],
+        [
+          "Patreon",
+          "https://www.patreon.com/username-here"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "GAME NAME HERE",
+        "http://link-here.com"
+      ],
+      [
+        "GAME NAME HERE",
+        "http://link-here.com"
+      ],
+      [
+        "GAME NAME HERE – MAX OF 3 GAMES PLEASE",
+        "http://link-here.com"
+      ]
+    ]
+  },
+  {
+    "name": "Dee Epistellar",
+    "image": "https://images.squarespace-cdn.com/content/v1/5e91516dd4e9d43a02df20b3/1589766648683-MW1CRCHCC5AMKS0EUR9Z/ke17ZwdGBToddI8pDm48kE0wQ8C3jxh7yIxkSV-E-KVZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHFq1zZ4M9vWl5hcgCefKlLV0Png8X2RCAVS73GDKUMm8PA-eZo7TwDwNR5_7WiIVU/me.jpg",
+    "skills": [
+      "narrative design",
+      "production",
+      "programming",
+      "project management",
+      "scriptwriting",
+      "copywriting"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Epistellar @ Itch.io",
+          "http://epistellar.itch.io"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/epistellar"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/dee.jpeg"
+        ],
+      "business": [
+        [
+          "Website",
+          "http://www.epistellar.net"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "High Elo Girls",
+        "https://splitfate.itch.io/high-elo-girls"
+      ],
+      [
+        "Alkahest: Possession",
+        "https://epistellar.itch.io/alkahest"
+      ]
+    ]
   }
 ]
